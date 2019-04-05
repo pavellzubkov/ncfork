@@ -1,5 +1,5 @@
 {
-  "name": "@ncform/ncform",
+  "name": "@ncfork/ncform",
   "version": "1.1.0",
   "description": "ncform, a very nice configuration generation way to develop form ( vue, json-schema, form, generator )",
   "author": "daniel.xiao",
